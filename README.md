@@ -1,6 +1,6 @@
-# NJMM Facebook Tweaks
+# Faithbook Tweaks
 
-NJMM Facebook Tweaks is an assorted set of tools to make Facebook Proselyting safer and more effective for missionaries in the New Jersey Morristown Mission of the Church of Jesus Christ of Latter-day Saints.
+The Faithbook Tweaks are an assorted set of tools to make Facebook Proselyting safer and more effective for missionaries of the Church of Jesus Christ of Latter-day Saints.
 
 It adds tools that help avoid distractions involving images and videos, that help accelerate the adding/removing of friends, accelerate the clearing of sent friend requests, and other tweaks to make proselyting easier.
 
@@ -108,7 +108,6 @@ These are the friendFilter Tools. They are inspired by [*Search is Back!*](https
 
 These are the icons and photos that are used.
 [border_big_plain.svg](icons/border_big_plain.svg) is the icon for the addon, courtesy of Elder Reyes.
-[h.jpg](icons/h.jpg) is the easter egg photo to change profile pictures to.
 [prof.png](icons/prof.png) is the default picture that we will change all profile pictures to.
 
 ### options
